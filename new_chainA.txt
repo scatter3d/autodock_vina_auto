@@ -1,0 +1,4 @@
+new_7kno_chainA
+spacing    0.375
+npts       70 40 40
+center    -18.429  5.305 -25.360

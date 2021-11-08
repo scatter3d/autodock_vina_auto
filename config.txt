@@ -1,0 +1,12 @@
+receptor = new_7kno_chainA.pdbqt
+
+center_x = -18.429 
+center_y = 5.305
+center_z = -25.360
+
+size_x = 70
+size_y = 40
+size_z = 40
+
+energy_range = 4
+num_modes = 10
